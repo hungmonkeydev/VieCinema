@@ -1,9 +1,9 @@
 "use client";
 
 import Header from "@/components/common/header";
-import Hero from "@/components/slider/hero";
+import Hero from "@/components/common/hero";
 import QuickBooking from "@/components/booking/quick-booking";
-import MovieGrid from "@/components/movie_grid/movie-grid";
+import MovieGrid from "@/components/common/movie-grid";
 import Promotions from "@/components/promotion/promotions";
 import Newsletter from "@/components/signup/newsletter";
 import Footer from "@/components/common/footer";

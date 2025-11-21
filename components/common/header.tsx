@@ -5,7 +5,7 @@ import SearchModal from "@/components/modal/search-modal";
 import LoginModal from "@/components/modal/login-modal";
 import CinemaCornerModal from "@/components/modal/cinema-corner-modal";
 import MovieModal from "@/components/modal/movie-modal";
-import { movies } from "@/components/movie_grid/movie-grid";
+import { movies } from "@/components/common/movie-grid";
 
 export default function Header() {
   const [isOpen, setIsOpen] = useState(false);
